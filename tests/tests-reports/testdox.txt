@@ -1,0 +1,13 @@
+Word (App\Tests\Word)
+ [x] Get all words
+ [x] Get words count
+ [x] Invalid word with numbers
+ [x] Invalid word with spaces
+ [x] Invalid word with special characters
+ [x] Valid word
+ [x] Get all words after add
+ [x] Not allowed single get
+ [x] Not allowed put
+ [x] Not allowed patch
+ [x] Not allowed delete
+

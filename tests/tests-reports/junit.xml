@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="11" assertions="19" errors="0" warnings="0" failures="0" skipped="0" time="6.891267">
+    <testsuite name="Project Test Suite" tests="11" assertions="19" errors="0" warnings="0" failures="0" skipped="0" time="6.891267">
+      <testsuite name="App\Tests\WordTest" file="D:\symfony\wordApi\tests\WordTest.php" tests="11" assertions="19" errors="0" warnings="0" failures="0" skipped="0" time="6.891267">
+        <testcase name="testGetAllWords" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="15" assertions="2" time="6.139869"/>
+        <testcase name="testGetWordsCount" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="27" assertions="2" time="0.102545"/>
+        <testcase name="testInvalidWordWithNumbers" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="38" assertions="2" time="0.075247"/>
+        <testcase name="testInvalidWordWithSpaces" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="55" assertions="2" time="0.048411"/>
+        <testcase name="testInvalidWordWithSpecialCharacters" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="72" assertions="2" time="0.048392"/>
+        <testcase name="testValidWord" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="89" assertions="2" time="0.130609"/>
+        <testcase name="testGetAllWordsAfterAdd" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="105" assertions="3" time="0.129468"/>
+        <testcase name="testNotAllowedSingleGet" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="125" assertions="1" time="0.066740"/>
+        <testcase name="testNotAllowedPut" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="130" assertions="1" time="0.049183"/>
+        <testcase name="testNotAllowedPatch" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="135" assertions="1" time="0.038838"/>
+        <testcase name="testNotAllowedDelete" class="App\Tests\WordTest" classname="App.Tests.WordTest" file="D:\symfony\wordApi\tests\WordTest.php" line="140" assertions="1" time="0.061964"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
